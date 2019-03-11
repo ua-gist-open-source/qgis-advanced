@@ -1,5 +1,5 @@
 # Assignment: Advanced QGIS
-## Worth: 10 points
+## Worth: 30 points
 ## Due: 3 days
 
 ## Background
