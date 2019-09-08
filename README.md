@@ -46,4 +46,6 @@ Deliverable:
 From step 8, Open the attribute table and show the `NEIGHBORS` and `SUM` field for Bolivia by adding a screenshot 
 of your QGIS workspace wit the table opened and the row for Bolivia selected.
 
-### 7. Finally, submit a *Pull request* to merge your assignment files with the `master` branch. Your branch should be named `solution`.
+### 7. Turn in your work via GitHub Pull Request. 
+
+Finally, submit a *Pull request* to merge your assignment files with the `master` branch. Your branch should be named `solution`.
