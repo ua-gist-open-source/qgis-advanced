@@ -31,13 +31,13 @@ From step 24, create a screenshot showing the clustered crime hot spots in Tucso
 Deliverable:
 
 From step 32, take a screenshot of your QGIS desktop showing the open layers and map of Africa and commit that to a
-new branch named `pyqgis`
+new branch named `advanced`
 
 ### 5. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/getting_started_with_pyqgis.html
 
 Deliverable:
 
-Add the `airports.txt` file to the `pyqgis` branch of this repo.
+Add the `airports.txt` file to the `advanced` branch of this repo.
 
 ### 6. Follow the tutorial at http://www.qgistutorials.com/en/docs/find_neighbor_polygons.html
 
@@ -48,4 +48,4 @@ of your QGIS workspace wit the table opened and the row for Bolivia selected.
 
 ### 7. Turn in your work via GitHub Pull Request. 
 
-Finally, submit a *Pull request* to merge your assignment files with the `master` branch. Your branch should be named `solution`.
+Finally, submit a *Pull request* to merge your assignment files with the `master` branch. Your branch should be named `advanced`.
