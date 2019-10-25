@@ -1,6 +1,6 @@
 # Assignment: Advanced QGIS
 ## Worth: 30 points
-## Due: October 10, 2019
+## Due: 7 days
 
 ## Background
 
