@@ -44,6 +44,3 @@ Take a screenshot of the attribute table from step 15 and name it `screencap_pre
 Deliverable:
 At step 32, try the plugin out. Name your output `urban_area_attributes.csv` - ADd the `urban_area_attributes.csv` to this repository.
 
-### 6. Turn in your work via GitHub Pull Request. 
-
-Finally, submit a *Pull request* to merge your assignment files with the `master` branch. Your branch should be named `advanced`.
