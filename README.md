@@ -22,7 +22,7 @@ Perform all your work in the `assignment` branch. When you have completed the as
 ### 1. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/processing_graphical_modeler.html
 
 Deliverable:
-Upload `airports.txt` you created in step 12 to this repository
+Take a screenshot of your QGIS Desktop at the final step (step 29) and name it `screencap-piracy-hostspots.png`
 
 ### 2. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/origin_destination_matrix.html
 
@@ -32,7 +32,7 @@ Take a screenshot of your QGIS Desktop at the final step (step 29) and name it `
 ### 3. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/getting_started_with_pyqgis.html
 
 Deliverable:
-Take a screenshot of your QGIS Desktop at the final step (step 29) and name it `screencap-piracy-hostspots.png`
+Upload `airports.txt` you created in step 12 to this repository
 
 ### 4. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/processing_algorithms_pyqgis.html
 
