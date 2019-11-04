@@ -42,5 +42,5 @@ Take a screenshot of the attribute table from step 15 and name it `screencap_pre
 ### 5. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/building_a_python_plugin.html
 
 Deliverable:
-At step 32, try the plugin out. Name your output `urban_area_attributes.csv` - ADd the `urban_area_attributes.csv` to this repository.
+At step 32, try the plugin out. Name your output `urban_area_attributes.csv` - Add the `urban_area_attributes.csv` to this repository.
 
