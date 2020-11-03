@@ -12,7 +12,7 @@ A very common task in GIS is turning formatted text files into spatial data laye
 2. `screencap-shortest-paths.png`
 3. `airports.txt`
 4. `screencap_precip_by_year_table.png`
-5. `urban_area_attributes.csv`
+5. `screencap_tool.png`
 
 ## Assignment
 
